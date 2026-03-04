@@ -18,7 +18,6 @@ private long nextId = 1;
     bookings.add(booking);
     return booking;
 }
-
 public List<Booking> getAllBookings() {
         return bookings;
 }
